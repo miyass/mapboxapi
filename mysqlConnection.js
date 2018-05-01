@@ -7,7 +7,7 @@ var mysql = require('mysql');
 //   database: 'map_clip',
 // };
 
-var dbConfig = {
+var dbconfig = {
   host: 'us-cdbr-iron-east-05.cleardb.net',
   user: 'be8496157a0752',
   password: '457f26d6',
